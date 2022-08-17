@@ -8,6 +8,8 @@ I stumbled onto programming while building my WordPress website and fell in love
 
 I enjoy the logic and structure of coding (similar to the writing process) and always strive to write clean and efficient code, whether it be in HTML, CSS, or JavaScript. I intend to intertwine creative writing with design to create beautiful and accessible projects.
 
+"To expand your wings, be persistent in learning new things." -Debasish Mridha
+
 <br>
 
 ### Languages and Tools:
